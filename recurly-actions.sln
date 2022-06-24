@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recurly-console", "recurly-console\recurly-console.csproj", "{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recurly-console", "recurly-console\recurly-console.csproj", "{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recurly-library", "recurly-library\recurly-library.csproj", "{1A39A101-9053-4807-BCB0-C8A1288F2BFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A39A101-9053-4807-BCB0-C8A1288F2BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A39A101-9053-4807-BCB0-C8A1288F2BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A39A101-9053-4807-BCB0-C8A1288F2BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A39A101-9053-4807-BCB0-C8A1288F2BFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
