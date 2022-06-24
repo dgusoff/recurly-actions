@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recurly-console", "recurly-console\recurly-console.csproj", "{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4E0FE1-6957-4173-8888-C4D9D5F7DFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FC6F29-5C61-463B-B356-5AE412999740}
+	EndGlobalSection
+EndGlobal
